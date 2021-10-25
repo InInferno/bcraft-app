@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bcraft-app/static/css/main.82d77d60.chunk.css",
+    "main.js": "/bcraft-app/static/js/main.beb7100b.chunk.js",
+    "main.js.map": "/bcraft-app/static/js/main.beb7100b.chunk.js.map",
+    "runtime-main.js": "/bcraft-app/static/js/runtime-main.92d2b887.js",
+    "runtime-main.js.map": "/bcraft-app/static/js/runtime-main.92d2b887.js.map",
+    "static/js/2.f58b5f95.chunk.js": "/bcraft-app/static/js/2.f58b5f95.chunk.js",
+    "static/js/2.f58b5f95.chunk.js.map": "/bcraft-app/static/js/2.f58b5f95.chunk.js.map",
+    "static/js/3.49d0703f.chunk.js": "/bcraft-app/static/js/3.49d0703f.chunk.js",
+    "static/js/3.49d0703f.chunk.js.map": "/bcraft-app/static/js/3.49d0703f.chunk.js.map",
+    "index.html": "/bcraft-app/index.html",
+    "static/css/main.82d77d60.chunk.css.map": "/bcraft-app/static/css/main.82d77d60.chunk.css.map",
+    "static/js/2.f58b5f95.chunk.js.LICENSE.txt": "/bcraft-app/static/js/2.f58b5f95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92d2b887.js",
+    "static/js/2.f58b5f95.chunk.js",
+    "static/css/main.82d77d60.chunk.css",
+    "static/js/main.beb7100b.chunk.js"
+  ]
+}
