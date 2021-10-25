@@ -1,5 +1,7 @@
 # Bcraft (bcraft-app)
 
+Ссылка: [BCRAFT](https://ininferno.github.io/bcraft-app/ "BCRAFT")
+
 ### Описание:
 - SPA
 - Реализовано меню навигации, которое можно открывать и скрывать

@@ -12,7 +12,7 @@ import {
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
-      <Router>
+      <Router basename="/bcraft-app">
         <App />
       </Router>
     </Provider>
