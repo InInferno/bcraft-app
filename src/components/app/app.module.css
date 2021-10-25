@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title {
+    width: 100%;
+    text-align: center;
+    color: #ff764c;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.button {
+    height: 30px;
+    padding: 8px 16px;
+    border: none;
+    background: #4b4b5a;
+    border-radius: 20px;
+    color: #fff;
+}
+
+.button:hover {
+    cursor: pointer;
+    opacity: .5;
+}
+
+.link {
+    color: #fff;
+    text-decoration: none;
+}
